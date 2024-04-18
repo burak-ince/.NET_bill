@@ -32,10 +32,4 @@ During development, we encountered the following issues:
 
 ## Video Presentation
 
-https://drive.google.com/file/d/1isaqrgnRxrWbBwPlMEpvRYoXIoNNWHoG/view?usp=sharing
-
-A short video presenting the project can be viewed [here](link-to-video).
-
----
-
-Bu README dosyası, projenin genel tasarımını, yapılan varsayımları, karşılaşılan sorunları ve projenin veri modelini açıklıyor. Özelleştirmeler ve detaylandırmalar yapmak için gerektiği gibi düzenleyebilirsiniz.
+A short video presenting the project can be viewed [here](https://drive.google.com/file/d/1isaqrgnRxrWbBwPlMEpvRYoXIoNNWHoG/view?usp=sharing).
